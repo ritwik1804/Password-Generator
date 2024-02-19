@@ -11,3 +11,17 @@ Copy generated passwords to clipboard with one click.
 Technologies Used:-
 Reactjs
 Tailwind 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
